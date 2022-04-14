@@ -1,10 +1,10 @@
 # Hi my name is Yuri ✍️
 
-### ☆ My Github stats ☆ 
+### My Github stats ✏️
 <div>
   <a href="https://github.com/ywrite">
     <img height="50%" src="https://github-readme-stats.vercel.app/api?username=ywrite&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues,prs" />
-    <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ywrite&layout=compact&langs_count=7&theme=radical" />
+    <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ywrite&layout=compact&theme=radical" />
   </a>
 </div>
 
